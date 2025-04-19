@@ -1,0 +1,8 @@
+.env
+*.txt
+*.csv
+*.json
+__pycache__/
+*.py[cod]
+*.swp
+*.bak
